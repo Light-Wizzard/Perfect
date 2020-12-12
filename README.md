@@ -30,7 +30,7 @@ Perfection starts with Knowledge, and that starts with Facts so let me list 6 Fa
 This Knowledge is the basis for the Perfect Machine.
 ## The Perfect Table of Content:
 1. [The Perfect Home Wiki](https://GitHub.com/Light-Wizzard/Perfect/wiki)
-2. [Is it Possible to be Prefect](https://GitHub.com/Light-Wizzard/Perfect/wiki/Possible)
+2. [Is it Possible to be Perfect](https://GitHub.com/Light-Wizzard/Perfect/wiki/Possible)
 3. [Perfect Reality](https://GitHub.com/Light-Wizzard/Perfect/wiki/Reality)
 4. [Perfect Spells, Grammar and Writing Style](https://github.com/Light-Wizzard/Perfect/wiki/Spelling-Grammar-and-Writing-Style)
 5. [Perfect Einstein](https://github.com/Light-Wizzard/Perfect/wiki/Einstein)
