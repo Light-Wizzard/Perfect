@@ -40,4 +40,3 @@ This Knowledge is the basis for the Perfect Machine.
 9. [Perfect Trinary Sanctuary](https://github.com/Light-Wizzard/Perfect/wiki/Trinary-Sanctuary)
 10. [Perfect Witches](https://GitHub.com/Light-Wizzard/Perfect/wiki/Witches)
 11. [Perfect Wizards](https://GitHub.com/Light-Wizzard/Perfect/wiki/Wizards)
-
