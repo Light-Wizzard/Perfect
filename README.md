@@ -28,7 +28,7 @@ Perfection starts with Knowledge, and that starts with Facts so let me list 6 Fa
 6. God grows food, filters or vaporizes impure water, and clean air to breathe, making Money Evil.
 
 This Knowledge is the basis for the Perfect Machine.
-The Perfect Table of Content:
+## The Perfect Table of Content:
 1. [The Perfect Home Wiki](https://GitHub.com/Light-Wizzard/Perfect/wiki)
 2. [Is it Possible to be Prefect](https://GitHub.com/Light-Wizzard/Perfect/wiki/Possible)
 3. [Perfect Reality](https://GitHub.com/Light-Wizzard/Perfect/wiki/Reality)
@@ -38,6 +38,6 @@ The Perfect Table of Content:
 7. [Perfect Stations](https://github.com/Light-Wizzard/Perfect/wiki/Stations)
 8. [The Perfect Sea of Reeds](https://github.com/Light-Wizzard/Perfect/wiki/Sea-of-Reeds)
 9. [Perfect Trinary Sanctuary](https://github.com/Light-Wizzard/Perfect/wiki/Trinary-Sanctuary)
-10. [Perfect Witches](https://github.com/Light-Wizzard/Perfect/wiki/Witches)
-11. [Perfect ](https://github.com/Light-Wizzard/Perfect/wiki/Wizards)
+10. [Perfect Witches](https://GitHub.com/Light-Wizzard/Perfect/wiki/Witches)
+11. [Perfect ](https://GitHub.com/Light-Wizzard/Perfect/wiki/Wizards)
 
