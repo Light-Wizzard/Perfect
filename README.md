@@ -28,6 +28,22 @@ Perfection starts with Knowledge, and that starts with Facts so let me list 6 Fa
 6. God grows food, filters or vaporizes impure water, and clean air to breathe, making Money Evil.
 
 This Knowledge is the basis for the Perfect Machine.
+## Books and ePubs
+I am not publicizing my books here, you can read them for free on my 
+[Github account Light-Wizzard/The-Principles-Of-The-Trinary-Universe](https://github.com/Light-Wizzard/The-Principles-Of-The-Trinary-Universe),
+but you have to pay for printed books, or the easy of having an ePub delivered through your devices ePub Reader, without having to download it.
+
+Printed Book and ePub Available at:
+
+Lulu
+* :book: :computer: http://www.lulu.com/spotlight/LightWizzard
+
+Amazon
+* :book: Book https://www.amazon.com/Principles-Trinary-Universe-according-Johannes/dp/1795429186/
+* :computer: ePub https://www.amazon.com/Principles-Trinary-Universe-according-Johannes-ebook/dp/B086D24HX9
+
+You can also get it at any major book store, but I would recommend reading it, if you want to know all the details about the Math, you will not find them in the code as much.
+
 ## The Perfect Table of Content:
 1. [The Perfect Home Wiki](https://GitHub.com/Light-Wizzard/Perfect/wiki)
 2. [Is it Possible to be Perfect](https://GitHub.com/Light-Wizzard/Perfect/wiki/Possible)
