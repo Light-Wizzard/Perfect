@@ -59,3 +59,5 @@ You can also get it at any major book store, but I would recommend reading it, i
 12. [Space](https://github.com/Light-Wizzard/Perfect/wiki/Space)
 13. [Stations](https://github.com/Light-Wizzard/Perfect/wiki/Stations)
 14. [Understanding](https://github.com/Light-Wizzard/Perfect/wiki/Understanding)
+
+YouTube Channel https://www.youtube.com/c/LightWizzard/about
