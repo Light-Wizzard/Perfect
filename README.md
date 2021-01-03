@@ -61,3 +61,6 @@ You can also get it at any major book store, but I would recommend reading it, i
 14. [Understanding](https://github.com/Light-Wizzard/Perfect/wiki/Understanding)
 
 YouTube Channel https://www.youtube.com/c/LightWizzard/about
+## My New Years Resolution for 2021
+[My New Years Resolution for 2021](https://github.com/Light-Wizzard/Perfect/blob/main/documents/2021-New-Years-Resolution.pdf)
+https://github.com/Light-Wizzard/Perfect/blob/main/documents/2021-New-Years-Resolution.pdf
